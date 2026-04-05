@@ -1,4 +1,6 @@
-# somata_clustering_metrics
+# Somata clustering metrics
+
+If you use this code, please cite the paper "Optimizing the in vitro neuronal microenvironment to mitigate phototoxicity in live-cell imaging" (https://doi.org/10.1186/s13287-025-04591-0)
 
 Somata clustering metrics characterise the degree to which somata/nuclei coalesce into groups over time. Here they have been used to quantify neuron somata self-organising in vitro, imaged with widefield microscopy. The two metrics are:
 
